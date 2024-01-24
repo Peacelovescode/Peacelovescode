@@ -8,6 +8,7 @@ I'm Peace Agu, I love making cool visuals and editing videos. Now, I am diving i
 ## 👨‍💻 Stack & Languages I want to Learn
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="LinkedIn Badge"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router Badge"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="LinkedIn Badge"/> <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="LinkedIn Badge"/>
 
+
 ## 📱 Contact Me
 
 <div id="badges">
@@ -16,6 +17,9 @@ I'm Peace Agu, I love making cool visuals and editing videos. Now, I am diving i
   </a>
   <a href="https://twitter.com/peaceagu_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+   <a href="https://wa.link/2nw25c">
+    <img src="[https://img.shields.io/badge/Twitter-blue](https://create.wa.link/static/WhatsApp-0e878a0fa68c61b06e781cee2e6bc71f.svg)?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
