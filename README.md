@@ -18,9 +18,6 @@ I'm Peace Agu, I love making cool visuals and editing videos. Now, I am diving i
   <a href="https://twitter.com/peaceagu_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-   <a href="https://wa.link/2nw25c">
-    <img src="[https://img.shields.io/badge/Twitter-blue](https://create.wa.link/static/WhatsApp-0e878a0fa68c61b06e781cee2e6bc71f.svg)?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 
